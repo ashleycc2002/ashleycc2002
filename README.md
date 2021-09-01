@@ -1,7 +1,7 @@
 
 
 👋 Hola yo soy Ashley  
-![ave1 (1)](https://user-images.githubusercontent.com/84288934/131752442-cf4be3ad-b1cb-4a7a-b44d-4926132995a7.png)
+![mochon](https://user-images.githubusercontent.com/84288934/131752935-dbe7acd6-78cb-4823-8399-efccba356cc0.jpg)
 
 
 
