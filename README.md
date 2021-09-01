@@ -6,9 +6,9 @@
 
 
 Ashley Castillo Méndez             
-Ingeniera en Software 
+Software Developer 
 
-Yo soy ingeniera de software quien es apasionada creando tecnologías para elevar a las personas. 
+Yo soy software developer quien es apasionada creando tecnologías para elevar a las personas. 
 Algunas tecnologías que yo disfruto trabajando con Angular, css, C#, JavaScript, Bootstrap.
 
 
