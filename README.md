@@ -10,7 +10,7 @@
 
 <p>
 Yo soy software developer quien es apasionada creando tecnologías para elevar a las personas. 
-Algunas tecnologías que yo disfruto trabajando con Angular, css, Html, C#, TypeScript, Visual studio.net, Firebase, Sql Server, JavaScript, Bootstrap.
+Algunas tecnologías que yo disfruto trabajando con <strong> Angular, css, Html, C#, TypeScript, Visual studio.net, Firebase, Sql Server, JavaScript, Bootstrap.</strong>
 </p>
 <hr>
 <h2> proyectos mios realizados en angular:</h2>
