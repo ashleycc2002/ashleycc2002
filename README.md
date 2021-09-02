@@ -10,7 +10,7 @@ Software Developer
 Yo soy software developer quien es apasionada creando tecnologías para elevar a las personas. 
 Algunas tecnologías que yo disfruto trabajando con Angular, css, Html, C#, TypeScript, Visual studio.net, Firebase, Sql Server, JavaScript, Bootstrap.
 
-<h2 proyectos mios realizados en angular:</h2>
+<h2> proyectos mios realizados en angular:</h2>
 
 https://loving-joliot-871910.netlify.app/#
 <br>
