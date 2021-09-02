@@ -1,6 +1,6 @@
 
 
-<h2 style="color:red"> 👋 Hola yo soy Ashley </h2>
+<h2 style="color:red"> 👋 Hi I'm Ashley </h2>
 <h2> Ashley Castillo Méndez </h2>            
 <h2>Software Developer </h2> 
 
