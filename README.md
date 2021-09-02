@@ -13,7 +13,7 @@ I am a software developer who is passionate about creating technologies to lift 
 Some technologies that I enjoy working with <strong> Angular, css, Html, C#, TypeScript, Asp.net Core, Ado.net, Git, Firebase, Sql Server, JavaScript, Bootstrap.</strong>
 </p>
 <hr>
-<h2> proyectos mios realizados en angular:</h2>
+<h2>projects of mine made in angular:</h2>
 
 https://loving-joliot-871910.netlify.app/#
 <br>
