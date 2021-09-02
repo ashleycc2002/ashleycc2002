@@ -1,6 +1,6 @@
 
 
-<h2> style="color:red"> 👋 Hola yo soy Ashle </h2>
+<h2 style="color:red"> 👋 Hola yo soy Ashley </h2>
 <h2> Ashley Castillo Méndez </h2>            
 <h2>Software Developer </h2> 
 
@@ -12,7 +12,7 @@
 Yo soy software developer quien es apasionada creando tecnologías para elevar a las personas. 
 Algunas tecnologías que yo disfruto trabajando con Angular, css, Html, C#, TypeScript, Visual studio.net, Firebase, Sql Server, JavaScript, Bootstrap.
 </p>
-</hr>
+<hr>
 <h2> proyectos mios realizados en angular:</h2>
 
 https://loving-joliot-871910.netlify.app/#
