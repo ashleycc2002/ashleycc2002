@@ -8,7 +8,7 @@
 
 ![alt-text](https://media2.giphy.com/media/l4Ki4biBSwhjyrS48/giphy.gif?cid=638dd686ddzyvk900a92lm5fbkdaips4iqwvpvu3biowbm9o&rid=giphy.gif&ct=g)
 
-<p style="color:#990000">
+<p style="color:#000099; font-weight:bold">
 Yo soy software developer quien es apasionada creando tecnologías para elevar a las personas. 
 Algunas tecnologías que yo disfruto trabajando con <strong> Angular, css, Html, C#, TypeScript, Visual studio.net, Firebase, Sql Server, JavaScript, Bootstrap.</strong>
 </p>
